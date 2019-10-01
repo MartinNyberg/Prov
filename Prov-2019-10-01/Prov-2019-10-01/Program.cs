@@ -10,6 +10,7 @@ namespace Prov_2019_10_01
     {
         static void Main(string[] args)
         {
+            
         }
     }
 }
